@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Ashton Pang, an **Aspiring AI Engineer** (specializing in **Computer Vision**). I am also in the midst of completing **AI Apprenticeship Programme** by (AI Singapore)[https://aisingapore.org/industryinnovation/aiap/] and will graduate in early-2023.
+🎓 I am Ashton Pang, an **Aspiring AI Engineer** (specializing in **Computer Vision**). I am also in the midst of completing **AI Apprenticeship Programme** by [AI Singapore](https://aisingapore.org/industryinnovation/aiap/) and will graduate in early-2023.
 
 👨‍💻 I really enjoy and am enthusiastic about learning new technology. In 2020, I graduated with a Bacherlors in Electrical Engineering. I figured that I wanted to deep dive into the field of machine learning and that's when I first started picking up on **Python** to write my first code. The journey wasn't smooth and there was alot of roadblocks in my learning journey, however, I pressed on and took up multiple MOOCs to aid in my learning journey. I started on the AI Apprenticeship Programme by AISG due to the multitude of good reviews by past apprentices on the rigourous and knowledge intensive course provided by AISG to transform any passionate individual into a full fledged AI Engineer.
 
