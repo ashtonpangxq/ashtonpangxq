@@ -8,7 +8,7 @@
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Graphic Design**, **Powerlifting**, **Piano**, and **Ethical Hacking**. Through powerlifting, I have the opportunity to represent Singapore to compete against the best in the Powerlifting World Championships, and I will continue to uphold this standard in achieving the best in both my work and hobby.
 
-📚 I also work with 4 other powerlifters in producing a blog content in raising awareness in the field of **Powerlifting**. I curate the graphic design and backend web design using wordpress to create impactful blogposts within the community. Future projects include **Powerlifting Workshops**, **Fitness Podcasts**, **Educational videos**, etc.
+📚 I also work with 4 other powerlifters in producing a blog content in raising awareness in the field of **Powerlifting**. I curate the graphic design and backend web design using wordpress to create impactful blogposts within the community. Future projects include **Powerlifting Workshops**, **Fitness Podcasts**, **Educational videos**, etc. You can find more about our platform at [ENSŌ Powerlifting](https://ensopowerlifting.com/) to find out more!
 
 ✈️ I love **traveling** too. I have been on multiple trips across the globe because of Powerlifting Competitions and overseas exchange programmes. Some notable countries include **Calgary, Canada (Powerlifting Worlds)**, **Mongolia (Powerlifting Asian Champions)**, **Seoul, South Korea (Summer Exchange)**, and **Linkoping, Sweden (Overseas Exchange)**. I love to indulge myself in other cultures and hope to produce a vlog for every country I visit.
 
