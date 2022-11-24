@@ -2,11 +2,11 @@
 
 ## 🙇‍♂️ About Me
 
-🎓 I am Ashton Pang, an **AI Engineer** (specializing in **Computer Vision**). I am also in the midst of completing **AI Apprenticeship Programme** by [AI Singapore](https://aisingapore.org/industryinnovation/aiap/) and will graduate in early-2023.
+🎓 I am Ashton Pang, an **AI Engineer** (specializing in **Computer Vision**). I am also a certified Associate AI Engineer. I am currently completing the **AI Apprenticeship Programme** by [AI Singapore](https://aisingapore.org/industryinnovation/aiap/) and will graduate in early-2023.
 
 🕵️💻 I really enjoy and am enthusiastic about learning new technologies. In 2020, I graduated with a Bacherlors in Electrical Engineering. I figured that I wanted to deep dive into the field of machine learning and that's when I first started picking up on **Python** to write my first code. This led me to my first data related job as a Business Intelligence Analyst. The journey wasn't smooth and there was alot of roadblocks in my learning journey, however, I pressed on and took up multiple MOOCs to aid in my learning journey. I started on the AI Apprenticeship Programme by AISG due to the multitude of good reviews by past apprentices on the rigourous and knowledge intensive course provided by AISG to transform any passionate individual into a full fledged AI Engineer.
 
-🏋️‍♂️ Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Graphic Design**, **Powerlifting**, **Piano**, and **Ethical Hacking**. Through powerlifting, I have the opportunity to represent Singapore to compete against the best in the Powerlifting World Championships, securing 1 gold and 2 bronze medals, and a regional record in Deadlift. I will continue to uphold this standard in achieving the best in both my work and hobby.
+🏋️‍♂️ Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Graphic Design**, **Powerlifting**, **Piano**, and **Web Development**. Through powerlifting, I have the opportunity to represent Singapore to compete against the best in the Powerlifting World Championships, securing 1 gold and 2 bronze medals, and a regional record in Deadlift. I will continue to uphold this standard in achieving the best in both my work and hobby.
 
 ⌨️ I also work with 4 other powerlifters in producing a blog content in raising awareness in the field of **Powerlifting**. I am in charge of curating graphics for our [Instagram Page](https://www.instagram.com/enso.powerlifting/?hl=en) and backend web design of our website using wordpress to create impactful blogposts for outreach within the community. Future projects include **Powerlifting Workshops**, **Fitness Podcasts**, **Educational videos**, etc. You can find more about our platform at [ENSŌ Powerlifting](https://ensopowerlifting.com/) to find out more!
 
@@ -31,6 +31,7 @@
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Design Tools
 
